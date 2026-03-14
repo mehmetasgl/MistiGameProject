@@ -1,0 +1,5 @@
+A* 3
+Spades* -4
+Hearts* 5
+J* -3
+** 2
